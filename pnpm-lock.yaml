@@ -1104,8 +1104,8 @@ importers:
         specifier: ^0.7.15
         version: 0.7.15
       '@ip1sms/disposable-phone-numbers':
-        specifier: ^2.1.1468
-        version: 2.1.1468
+        specifier: ^2.1.1469
+        version: 2.1.1469
       '@merqva/telegram-passport':
         specifier: ^1.0.2
         version: 1.0.2
@@ -7321,8 +7321,8 @@ packages:
     resolution: {integrity: sha512-Sx1pU8EM64o2BrqNpEO1CNLtKQwyhuXuqyfH7oGKCk+1a33d2r5saW8zNwm3j6BTExtjrv2BxTgzzkMwts6vGg==}
     dev: false
 
-  /@ip1sms/disposable-phone-numbers@2.1.1468:
-    resolution: {integrity: sha512-AlcE/Xeoid7GIRUie+OfYw+6yHbSFDqKiTT1ZdHgaqmGujmp/geOEQRsHFHxyLGk9N43e7Bw44d3Uf6cbZ++8A==}
+  /@ip1sms/disposable-phone-numbers@2.1.1469:
+    resolution: {integrity: sha512-4r4GH27lEZIs9NNvbLGLz+7t9q144x4+yzEyIkhMsFEE4mfXXLIOAB2Kps76luaAfjSEX4s1IkgCNx9/SiWtjw==}
     dev: false
 
   /@isaacs/cliui@8.0.2:
