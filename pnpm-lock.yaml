@@ -1104,8 +1104,8 @@ importers:
         specifier: ^0.7.15
         version: 0.7.15
       '@ip1sms/disposable-phone-numbers':
-        specifier: ^2.1.1492
-        version: 2.1.1492
+        specifier: ^2.1.1494
+        version: 2.1.1494
       '@merqva/telegram-passport':
         specifier: ^1.0.2
         version: 1.0.2
@@ -7321,8 +7321,8 @@ packages:
     resolution: {integrity: sha512-Sx1pU8EM64o2BrqNpEO1CNLtKQwyhuXuqyfH7oGKCk+1a33d2r5saW8zNwm3j6BTExtjrv2BxTgzzkMwts6vGg==}
     dev: false
 
-  /@ip1sms/disposable-phone-numbers@2.1.1492:
-    resolution: {integrity: sha512-icpwsle1w/UcVJDpnxruB3XbCAeXRW2nvDPKuWCGS/D5DRaCMrVt+tLcH+UUh2QiWx3wKcepNb9wPn72oF36cg==}
+  /@ip1sms/disposable-phone-numbers@2.1.1494:
+    resolution: {integrity: sha512-+1DEr/eV+0Ptd/0GGTJmfdCWg1Q7PseehU/1HlAHkkMF5sKEubRNaSoDRS9zH+MmazoVIJWgi9QiWXP0WMmNTg==}
     dev: false
 
   /@isaacs/cliui@8.0.2:
@@ -16621,8 +16621,8 @@ packages:
     hasBin: true
     dependencies:
       baseline-browser-mapping: 2.10.18
-      caniuse-lite: 1.0.30001787
-      electron-to-chromium: 1.5.335
+      caniuse-lite: 1.0.30001788
+      electron-to-chromium: 1.5.336
       node-releases: 2.0.37
       update-browserslist-db: 1.2.3(browserslist@4.28.2)
 
@@ -16780,8 +16780,8 @@ packages:
   /caniuse-lite@1.0.30001726:
     resolution: {integrity: sha512-VQAUIUzBiZ/UnlM28fSp2CRF3ivUn1BWEvxMcVTNwpw91Py1pGbPIyIKtd+tzct9C3ouceCVdGAXxZOpZAsgdw==}
 
-  /caniuse-lite@1.0.30001787:
-    resolution: {integrity: sha512-mNcrMN9KeI68u7muanUpEejSLghOKlVhRqS/Za2IeyGllJ9I9otGpR9g3nsw7n4W378TE/LyIteA0+/FOZm4Kg==}
+  /caniuse-lite@1.0.30001788:
+    resolution: {integrity: sha512-6q8HFp+lOQtcf7wBK+uEenxymVWkGKkjFpCvw5W25cmMwEDU45p1xQFBQv8JDlMMry7eNxyBaR+qxgmTUZkIRQ==}
 
   /capital-case@1.0.4:
     resolution: {integrity: sha512-ds37W8CytHgwnhGGTi88pcPyR15qoNkOpYwmMMfnWqqWgESapLqvDx6huFjQ5vqWSn2Z06173XNA7LtMOeUh1A==}
@@ -18668,8 +18668,8 @@ packages:
   /electron-to-chromium@1.5.178:
     resolution: {integrity: sha512-wObbz/ar3Bc6e4X5vf0iO8xTN8YAjN/tgiAOJLr7yjYFtP9wAjq8Mb5h0yn6kResir+VYx2DXBj9NNobs0ETSA==}
 
-  /electron-to-chromium@1.5.335:
-    resolution: {integrity: sha512-q9n5T4BR4Xwa2cwbrwcsDJtHD/enpQ5S1xF1IAtdqf5AAgqDFmR/aakqH3ChFdqd/QXJhS3rnnXFtexU7rax6Q==}
+  /electron-to-chromium@1.5.336:
+    resolution: {integrity: sha512-AbH9q9J455r/nLmdNZes0G0ZKcRX73FicwowalLs6ijwOmCJSRRrLX63lcAlzy9ux3dWK1w1+1nsBJEWN11hcQ==}
 
   /elliptic@6.6.1:
     resolution: {integrity: sha512-RaddvvMatK2LJHqFJ+YA4WysVN5Ita9E35botqIYspQ4TkRAlCicdzKOjlyv/1Za5RyTNn7di//eEV0uTAfe3g==}
