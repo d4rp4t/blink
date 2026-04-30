@@ -1104,8 +1104,8 @@ importers:
         specifier: ^0.7.15
         version: 0.7.15
       '@ip1sms/disposable-phone-numbers':
-        specifier: ^2.1.1511
-        version: 2.1.1511
+        specifier: ^2.1.1512
+        version: 2.1.1512
       '@merqva/telegram-passport':
         specifier: ^1.0.2
         version: 1.0.2
@@ -7321,8 +7321,8 @@ packages:
     resolution: {integrity: sha512-Sx1pU8EM64o2BrqNpEO1CNLtKQwyhuXuqyfH7oGKCk+1a33d2r5saW8zNwm3j6BTExtjrv2BxTgzzkMwts6vGg==}
     dev: false
 
-  /@ip1sms/disposable-phone-numbers@2.1.1511:
-    resolution: {integrity: sha512-SiV3Ysz8q2Fd1fVoUgpMIuSgcScUnVPIWyf59nO/7EuXvggvLWi/88CDTN7hplbUKQR4gADT1pymBbdVHCB6Ag==}
+  /@ip1sms/disposable-phone-numbers@2.1.1512:
+    resolution: {integrity: sha512-8KrvIJmT6gnvMkmid9xzOYkxyPiKx2D6B+iUSn4Q2gZ7YpZqBJbmdzWB0A7DtGmI6GedGv3wAHHxI/Qjl+cF+g==}
     dev: false
 
   /@isaacs/cliui@8.0.2:
@@ -16622,7 +16622,7 @@ packages:
     dependencies:
       baseline-browser-mapping: 2.10.24
       caniuse-lite: 1.0.30001791
-      electron-to-chromium: 1.5.344
+      electron-to-chromium: 1.5.345
       node-releases: 2.0.38
       update-browserslist-db: 1.2.3(browserslist@4.28.2)
 
@@ -18668,8 +18668,8 @@ packages:
   /electron-to-chromium@1.5.178:
     resolution: {integrity: sha512-wObbz/ar3Bc6e4X5vf0iO8xTN8YAjN/tgiAOJLr7yjYFtP9wAjq8Mb5h0yn6kResir+VYx2DXBj9NNobs0ETSA==}
 
-  /electron-to-chromium@1.5.344:
-    resolution: {integrity: sha512-4MxfbmNDm+KPh066EZy+eUnkcDPcZ35wNmOWzFuh/ijvHsve6kbLTLURy88uCNK5FbpN+yk2nQY6BYh1GEt+wg==}
+  /electron-to-chromium@1.5.345:
+    resolution: {integrity: sha512-F9JXQGiMrz6yVNPI2qOVPvB9HzjH5cGzhs8oJ6A28V5L/YnzN/0KsuiibqF+F1Fd9qxFzD1BUnYSd8JfULxTwg==}
 
   /elliptic@6.6.1:
     resolution: {integrity: sha512-RaddvvMatK2LJHqFJ+YA4WysVN5Ita9E35botqIYspQ4TkRAlCicdzKOjlyv/1Za5RyTNn7di//eEV0uTAfe3g==}
@@ -31211,8 +31211,8 @@ packages:
     engines: {node: '>=10.13.0'}
     dev: true
 
-  /webpack-sources@3.4.0:
-    resolution: {integrity: sha512-gHwIe1cgBvvfLeu1Yz/dcFpmHfKDVxxyqI+kzqmuxZED81z2ChxpyqPaWcNqigPywhaEke7AjSGga+kxY55gjQ==}
+  /webpack-sources@3.4.1:
+    resolution: {integrity: sha512-eACpxRN02yaawnt+uUNIF7Qje6A9zArxBbcAJjK1PK3S9Ycg5jIuJ8pW4q8EMnwNZCEGltcjkRx1QzOxOkKD8A==}
     engines: {node: '>=10.13.0'}
     dev: true
 
@@ -31253,7 +31253,7 @@ packages:
       tapable: 2.3.3
       terser-webpack-plugin: 5.5.0(webpack@5.106.2)
       watchpack: 2.5.1
-      webpack-sources: 3.4.0
+      webpack-sources: 3.4.1
     transitivePeerDependencies:
       - '@swc/core'
       - esbuild
