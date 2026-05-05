@@ -1104,8 +1104,8 @@ importers:
         specifier: ^0.7.15
         version: 0.7.15
       '@ip1sms/disposable-phone-numbers':
-        specifier: ^2.1.1516
-        version: 2.1.1516
+        specifier: ^2.1.1517
+        version: 2.1.1517
       '@merqva/telegram-passport':
         specifier: ^1.0.2
         version: 1.0.2
@@ -7321,8 +7321,8 @@ packages:
     resolution: {integrity: sha512-Sx1pU8EM64o2BrqNpEO1CNLtKQwyhuXuqyfH7oGKCk+1a33d2r5saW8zNwm3j6BTExtjrv2BxTgzzkMwts6vGg==}
     dev: false
 
-  /@ip1sms/disposable-phone-numbers@2.1.1516:
-    resolution: {integrity: sha512-6cJeEKhTBorvKT9VZ+A04ZXxC/CikiBQqtkaNiNeIRhsTShMzzs9oO+UfDePYqMPn2oTr02gVer8eh3DUYKg2g==}
+  /@ip1sms/disposable-phone-numbers@2.1.1517:
+    resolution: {integrity: sha512-4b8gTfELvQATnbTPrf2dyhNR2hVmoue+ViFDNib90zXpgWAQG5w0pZq8Lrn1ye+ZfJ3r+QaM/BKc0i1GFwyvkw==}
     dev: false
 
   /@isaacs/cliui@8.0.2:
@@ -15486,7 +15486,7 @@ packages:
     resolution: {integrity: sha512-Thbli+OlOj+iMPYFBVBfJ3OmCAnaSyNn4M1vz9T6Gka5Jt9ba/HIR56joy65tY6kx/FCF5VXNB819Y7/GUrBGA==}
     dependencies:
       fast-deep-equal: 3.1.3
-      fast-uri: 3.1.0
+      fast-uri: 3.1.1
       json-schema-traverse: 1.0.0
       require-from-string: 2.0.2
     dev: true
@@ -20446,8 +20446,8 @@ packages:
   /fast-uri@3.0.6:
     resolution: {integrity: sha512-Atfo14OibSv5wAp4VWNsFYE1AchQRTv9cBGWET4pZWHzYshFSS9NQI6I57rdKn9croWVMbYFbLhJ+yJvmZIIHw==}
 
-  /fast-uri@3.1.0:
-    resolution: {integrity: sha512-iPeeDKJSWf4IEOasVVrknXpaBV0IApz/gp7S2bb7Z4Lljbl2MGJRqInZiUrQwV16cpzw/D3S5j5Julj/gT52AA==}
+  /fast-uri@3.1.1:
+    resolution: {integrity: sha512-h2r7rcm6Ee/J8o0LD5djLuFVcfbZxhvho4vvsbeV0aMvXjUgqv4YpxpkEx0d68l6+IleVfLAdVEfhR7QNMkGHQ==}
     dev: true
 
   /fast-xml-parser@5.3.6:
