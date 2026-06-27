@@ -819,7 +819,7 @@ importers:
         version: 6.5.0(eslint@8.57.0)(typescript@5.6.3)
       eslint-webpack-plugin:
         specifier: ^4.1.0
-        version: 4.2.0(eslint@8.57.0)(webpack@5.108.0)
+        version: 4.2.0(eslint@8.57.0)(webpack@5.108.1)
       postcss:
         specifier: ^8.4.47
         version: 8.5.6
@@ -828,7 +828,7 @@ importers:
         version: 3.6.2
       react-dev-utils:
         specifier: ^12.0.1
-        version: 12.0.1(eslint@8.57.0)(typescript@5.6.3)(webpack@5.108.0)
+        version: 12.0.1(eslint@8.57.0)(typescript@5.6.3)(webpack@5.108.1)
       tailwindcss:
         specifier: ^3.4.14
         version: 3.4.17
@@ -1104,8 +1104,8 @@ importers:
         specifier: ^0.7.15
         version: 0.7.15
       '@ip1sms/disposable-phone-numbers':
-        specifier: ^2.1.1569
-        version: 2.1.1569
+        specifier: ^2.1.1570
+        version: 2.1.1570
       '@merqva/telegram-passport':
         specifier: ^1.0.2
         version: 1.0.2
@@ -7336,8 +7336,8 @@ packages:
     resolution: {integrity: sha512-Sx1pU8EM64o2BrqNpEO1CNLtKQwyhuXuqyfH7oGKCk+1a33d2r5saW8zNwm3j6BTExtjrv2BxTgzzkMwts6vGg==}
     dev: false
 
-  /@ip1sms/disposable-phone-numbers@2.1.1569:
-    resolution: {integrity: sha512-x0jmhPZf/hIhJ6Fy13VjDuKvOZahfqe1uLslLQg6pl87peA/nmW0id/KyIwHd8NQ08X+SBJrbdvlUJqTA1ciZA==}
+  /@ip1sms/disposable-phone-numbers@2.1.1570:
+    resolution: {integrity: sha512-AqhXn9z+d5Ho0kzXOzI2x9O10HgxJ+d7ZtvT6Fw4rFl49N383UK81TIphrWZky661+1u1DN9WLfBP3pbrF/1Lw==}
     dev: false
 
   /@isaacs/cliui@8.0.2:
@@ -16641,7 +16641,7 @@ packages:
     dependencies:
       baseline-browser-mapping: 2.10.40
       caniuse-lite: 1.0.30001799
-      electron-to-chromium: 1.5.379
+      electron-to-chromium: 1.5.380
       node-releases: 2.0.50
       update-browserslist-db: 1.2.3(browserslist@4.28.4)
 
@@ -18687,8 +18687,8 @@ packages:
   /electron-to-chromium@1.5.178:
     resolution: {integrity: sha512-wObbz/ar3Bc6e4X5vf0iO8xTN8YAjN/tgiAOJLr7yjYFtP9wAjq8Mb5h0yn6kResir+VYx2DXBj9NNobs0ETSA==}
 
-  /electron-to-chromium@1.5.379:
-    resolution: {integrity: sha512-v/qV5aV5EUA2pGilzUCq5/eyOloZAqDZBu9UMBIzgPpLlprjSR6zswsWBTv0KpqxLGUAZEwhO95ZCt7srymNVA==}
+  /electron-to-chromium@1.5.380:
+    resolution: {integrity: sha512-W6d5AbuEoRayO447cqrg6lKJIlscgRnnxOZl/08kfV71BQDoEBC7Wwis68z87LjyK6f4kWyTaubuDbhHKrZkbA==}
 
   /elliptic@6.6.1:
     resolution: {integrity: sha512-RaddvvMatK2LJHqFJ+YA4WysVN5Ita9E35botqIYspQ4TkRAlCicdzKOjlyv/1Za5RyTNn7di//eEV0uTAfe3g==}
@@ -19973,7 +19973,7 @@ packages:
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
     dev: true
 
-  /eslint-webpack-plugin@4.2.0(eslint@8.57.0)(webpack@5.108.0):
+  /eslint-webpack-plugin@4.2.0(eslint@8.57.0)(webpack@5.108.1):
     resolution: {integrity: sha512-rsfpFQ01AWQbqtjgPRr2usVRxhWDuG0YDYcG8DJOteD3EFnpeuYuOwk0PQiN7PRBTqS6ElNdtPZPggj8If9WnA==}
     engines: {node: '>= 14.15.0'}
     peerDependencies:
@@ -19986,7 +19986,7 @@ packages:
       micromatch: 4.0.8
       normalize-path: 3.0.0
       schema-utils: 4.3.2
-      webpack: 5.108.0(postcss@8.5.6)
+      webpack: 5.108.1(postcss@8.5.6)
     dev: true
 
   /eslint@8.40.0:
@@ -20841,7 +20841,7 @@ packages:
     resolution: {integrity: sha512-j0KLYPhm6zeac4lz3oJ3o65qvgQCcPubiyotZrXqEaG4hNagNYO8qdlUrX5vwqv9ohqeT/Z3j6+yW067yWWdUw==}
     dev: true
 
-  /fork-ts-checker-webpack-plugin@6.5.3(eslint@8.57.0)(typescript@5.6.3)(webpack@5.108.0):
+  /fork-ts-checker-webpack-plugin@6.5.3(eslint@8.57.0)(typescript@5.6.3)(webpack@5.108.1):
     resolution: {integrity: sha512-SbH/l9ikmMWycd5puHJKTkZJKddF4iRLyW3DeZ08HTI7NGyLS38MXd/KGgeWumQO7YNQbW2u/NtPT2YowbPaGQ==}
     engines: {node: '>=10', yarn: '>=1.0.0'}
     peerDependencies:
@@ -20870,7 +20870,7 @@ packages:
       semver: 7.7.2
       tapable: 1.1.3
       typescript: 5.6.3
-      webpack: 5.108.0(postcss@8.5.6)
+      webpack: 5.108.1(postcss@8.5.6)
     dev: true
 
   /fork-ts-checker-webpack-plugin@8.0.0(typescript@5.8.3)(webpack@5.99.9):
@@ -24972,7 +24972,7 @@ packages:
   /minimist@1.2.8:
     resolution: {integrity: sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==}
 
-  /minimizer-webpack-plugin@5.6.1(postcss@8.5.6)(webpack@5.108.0):
+  /minimizer-webpack-plugin@5.6.1(postcss@8.5.6)(webpack@5.108.1):
     resolution: {integrity: sha512-DoeAZz8Q1C1znwsUzej1fdoi4jCf7/+Em27ouLqfK/+3m8G+D7yDhUwrc3CNhjSzGUN1kn7Iv4sWmjflQHenpw==}
     engines: {node: '>= 10.13.0'}
     peerDependencies:
@@ -25020,7 +25020,7 @@ packages:
       postcss: 8.5.6
       schema-utils: 4.3.3
       terser: 5.48.0
-      webpack: 5.108.0(postcss@8.5.6)
+      webpack: 5.108.1(postcss@8.5.6)
     dev: true
 
   /minipass@3.3.6:
@@ -27340,7 +27340,7 @@ packages:
       react: 18.3.1
     dev: false
 
-  /react-dev-utils@12.0.1(eslint@8.57.0)(typescript@5.6.3)(webpack@5.108.0):
+  /react-dev-utils@12.0.1(eslint@8.57.0)(typescript@5.6.3)(webpack@5.108.1):
     resolution: {integrity: sha512-84Ivxmr17KjUupyqzFode6xKhjwuEJDROWKJy/BthkL7Wn6NJ8h4WE6k/exAv6ImS+0oZLRRW5j/aINMHyeGeQ==}
     engines: {node: '>=14'}
     peerDependencies:
@@ -27359,7 +27359,7 @@ packages:
       escape-string-regexp: 4.0.0
       filesize: 8.0.7
       find-up: 5.0.0
-      fork-ts-checker-webpack-plugin: 6.5.3(eslint@8.57.0)(typescript@5.6.3)(webpack@5.108.0)
+      fork-ts-checker-webpack-plugin: 6.5.3(eslint@8.57.0)(typescript@5.6.3)(webpack@5.108.1)
       global-modules: 2.0.0
       globby: 11.1.0
       gzip-size: 6.0.0
@@ -27375,7 +27375,7 @@ packages:
       strip-ansi: 6.0.1
       text-table: 0.2.0
       typescript: 5.6.3
-      webpack: 5.108.0(postcss@8.5.6)
+      webpack: 5.108.1(postcss@8.5.6)
     transitivePeerDependencies:
       - eslint
       - supports-color
@@ -31284,8 +31284,8 @@ packages:
     resolution: {integrity: sha512-66/V2i5hQanC51vBQKPH4aI8NMAcBW59FVBs+rC7eGHupMyfn34q7rZIE+ETlJ+XTevqfUhVVBgSUNSW2flEUQ==}
     dev: true
 
-  /webpack@5.108.0(postcss@8.5.6):
-    resolution: {integrity: sha512-Ln1JuYGPRTXcHECapSFSvACtHmWEN5sQqFJeLLGQ0057S7qzT2eXUz0MZUedtmIrNy3nJgnITSubIYKGED9jSQ==}
+  /webpack@5.108.1(postcss@8.5.6):
+    resolution: {integrity: sha512-UUCihHQK3O7483Woa0SulNLDeAiOhHI2PN2PAPU4fVWJqbzhv04EJ8FaWtB9WWh3i8fRt28543U7VfuJTOrpgQ==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     peerDependencies:
@@ -31310,7 +31310,7 @@ packages:
       graceful-fs: 4.2.11
       loader-runner: 4.3.2
       mime-db: 1.54.0
-      minimizer-webpack-plugin: 5.6.1(postcss@8.5.6)(webpack@5.108.0)
+      minimizer-webpack-plugin: 5.6.1(postcss@8.5.6)(webpack@5.108.1)
       neo-async: 2.6.2
       schema-utils: 4.3.3
       tapable: 2.3.3
